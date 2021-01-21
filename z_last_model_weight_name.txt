@@ -1,0 +1,1 @@
+{'cnn': 'cnn-mg007-be01588-sn000-ep00012-weight-v001.h5'}
